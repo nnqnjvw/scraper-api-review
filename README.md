@@ -90,15 +90,6 @@ http://api.scraperapi.com?api_key=你的KEY&url=目标网址
 - 主要目标是高防站点（premium模式成本高）
 - 需要实时低延迟响应的场景（代理转发天然有延迟）
 
-## 全套餐对比
-
-| 方案 | 月请求额度 | 并发线程数 | 月付价格 | 年付价格（月均） | 适合谁 | 购买 |
-|------|-----------|--------|-------------|------|
-| Free | 5,000 | 1 | 免费 | 免费 | 测试验证、偶尔小量抓取 | [ 免费注册立即开始使用](https://www.scraperapi.com/?fp_ref=coupons) |
-| Hobby | 100,000 | 10 | $49 | $29 | 个人开发者、小型项目 | [ 开通Hobby方案享十倍请求量](https://www.scraperapi.com/?fp_ref=coupons) |
-| Startup | 1,000,000 | 50 | $149 | $99 | 初创团队、中等规模采集 | [ 升级Startup方案解锁百万级请求](https://www.scraperapi.com/?fp_ref=coupons) |
-| Business | 3,000,000 | 100 | $299 | $249 | 中型企业、大规模数据项目 | [ 直达Business方案获取最大并发](https://www.scraperapi.com/?fp_ref=coupons) |
-| Enterprise | 自定义 | 自联系销售 | 联系销售 | 超大规模需求、定制化服务 | [ 联系ScraperAPI获取企业定制方案](https://www.scraperapi.com/?fp_ref=coupons) |
 
 年付方案相比月付能省下不少，Startup方案年付的话每月只要99美元，相当于打了六折。如果确定要长期用，年付是更合理的选择。
 
